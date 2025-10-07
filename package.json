@@ -1,0 +1,19 @@
+{
+  "name": "wawebku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.20",
+    "axios": "^1.12.2",
+    "form-data": "^4.0.4",
+    "pino": "^10.0.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
